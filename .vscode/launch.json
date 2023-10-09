@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "command"
+            
+            : "npm start",
+            "": "",
+            "request": "launch",
+            "type": "node-terminal"
+        },
+        {
+            "type": "node-terminal",
+            "name": "Terminal de depuración de JavaScript",
+            "request": "launch",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
